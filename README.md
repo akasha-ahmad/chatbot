@@ -1,6 +1,3 @@
-Here’s a **README.md** file for your chatbot project. This file provides an overview, setup instructions, and usage details for your project:
-
----
 
 ### **README.md**
 
