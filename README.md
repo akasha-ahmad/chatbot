@@ -115,5 +115,3 @@ This project is licensed under the MIT License. Feel free to use and modify it a
    git commit -m "Added README file"
    git push
    ```
-
-Let me know if you'd like any additional sections or modifications!
