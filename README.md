@@ -91,27 +91,10 @@ chatbot_project/
 - **Hugging Face Transformers**: Pre-trained GPT-2 model for response generation.
 - **Python**: Primary programming language.
 
----
-
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
-
----
 
 ## Acknowledgements
 
 - [Hugging Face Transformers](https://huggingface.co/docs/transformers)
 - [Streamlit](https://streamlit.io/)
-```
 
----
 
-### Instructions
-1. Save this content in a file named **README.md** in your project directory.
-2. Commit the file to your Git repository:
-   ```bash
-   git add README.md
-   git commit -m "Added README file"
-   git push
-   ```
